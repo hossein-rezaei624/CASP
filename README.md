@@ -1,4 +1,4 @@
-
+Official Code For Paper "[Class-Adaptive Sampling Policy for Efficient Continual Learning](https://arxiv.org/abs/2311.16485)"
 
 ## Datasets 
 - Split CIFAR10
